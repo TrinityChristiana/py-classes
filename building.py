@@ -13,7 +13,7 @@ class Building:
     # Define your __init__ method to accept two arguments
     def __init__(self, address, stories):
         # designer - It will hold your name.
-        self.designer = "Trinity Terry"
+        self.designer = random_name()
         # date_constructed - This will hold the exact time the building was created.
         self.date_constructed = "Today"
         # owner - This will store the same of the person who owns the building.
@@ -36,22 +36,24 @@ class Building:
         print(f"{building['address']} was purchased by {building['owner']} on {building['date_constructed']} and has {building['stories']} stories.")
 
 
-# Create 5 building instances
-buildings = [Building("333 Commerce Street", 33), Building("Strada General Traian Moșoiu 24", 5), Building(
-    "5 Avenue Anatole France", 276), Building("1600 Pennsylvania Ave NW", 6), Building("48009 Bilbo", 3)]
+def run():
+    # Create 5 building instances
+    buildings = [Building("333 Commerce Street", 33), Building("Strada General Traian Moșoiu 24", 5), Building(
+        "5 Avenue Anatole France", 276), Building("1600 Pennsylvania Ave NW", 6), Building("48009 Bilbo", 3)]
 
-print("**************** Init Details ************ \n")
-for building in buildings:
-    building.print_details()
+    print("**************** Init Details ************ \n")
+    for building in buildings:
+        building.print_details()
 
-for building in buildings:
-    person = random_name()
-    # Have each one get purchased by a real estate magnate
-    building.purchase(person)
-    # After purchased, construct each one
-    building.construct()
+    for building in buildings:
+        person = random_name()
+        # Have each one get purchased by a real estate magnate
+        building.purchase(person)
+        # After purchased, construct each one
+        building.construct()
 
-# Once all building are purchased and constructed, print the address, owner, stories, and date constructed to the terminal for each one.
-print("\n **************** New Details ************ \n")
-for building in buildings:
-    building.print_details()
+    # Once all building are purchased and constructed, print the address, owner, stories, and date constructed to the terminal for each one.
+    print("\n **************** New Details ************ \n")
+    for building in buildings:
+        building.print_details()
+# run()

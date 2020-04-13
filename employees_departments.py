@@ -1,8 +1,9 @@
-# **************************** Challenge: Pizza Joint ****************************
+# **************************** Challenge: Companies and Employees ****************************
 """
 Author: Trinity Terry
-pyrun: python classes.py
+pyrun: python employees_departments.py
 """
+
 from random_names import random_name
 
 # Create an Employee type that contains information about employees of a company. Each employee must have a name, job title, and employment start date.
