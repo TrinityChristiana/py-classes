@@ -2,26 +2,24 @@
 
 Created: 04-13-20 | Modified:
 
-This assignment is an individual exercise: [Directions here](https://github.com/TrinityTerry/py-functions/blob/master/directions/directions.md)
-
+This assignment is an individual exercise: [Directions here](https://github.com/TrinityTerry/py-classes/blob/master/directions.md)
 ---
 
+## Practice: Pizza Joint
+<!-- - [Code]() -->
+- [Directions](https://github.com/TrinityTerry/py-classes/blob/master/directions.md#practice-pizza-joint)
 
-## Practice: ChickenMonkey
-- [Code](https://github.com/TrinityTerry/py-functions/blob/master/chicken-monkey.py#L1)
-- [Directions](https://github.com/TrinityTerry/py-functions/blob/master/directions/directions.md#practice-chickenmonkey)
+## Practice: Urban Planner
+<!-- - [Code]() -->
+- [Directions](https://github.com/TrinityTerry/py-classes/blob/master/directions.md#practice-urban-planner)
 
-## Practice: Activities for Kids
-- [Code](https://github.com/TrinityTerry/py-functions/blob/master/activities-for-kids.py#L1)
-- [Directions](https://github.com/TrinityTerry/py-functions/blob/master/directions/directions.md#practice-activities-for-kids)
+## Practice: Companies and Employees
+<!-- - [Code]() -->
+- [Directions](https://github.com/TrinityTerry/py-classes/blob/master/directions.md#practice-companies-and-employees)
 
-## Practice: Coins to Cash
-- [Code](https://github.com/TrinityTerry/py-functions/blob/master/coins-to-cash.py#L1)
-- [Directions](https://github.com/TrinityTerry/py-functions/blob/master/directions/directions.md#coins-to-cash)
-
-## Practice: Cash to Coins
-- [Code](https://github.com/TrinityTerry/py-functions/blob/master/cash-to-coins.py#L1)
-- [Directions](https://github.com/TrinityTerry/py-functions/blob/master/directions/directions.md#cash-to-coins)
+## Practice: Urban Planner II
+<!-- - [Code]() -->
+- [Directions](https://github.com/TrinityTerry/py-classes/blob/master/directions.md#practice-urban-planner-ii)
 
 ---
 _This is a lesson from [Book 1](https://github.com/nashville-software-school/bangazon-llc/tree/master/book-1-orientation) - [Chapter 9](https://github.com/nashville-software-school/bangazon-llc/blob/master/book-1-orientation/chapters/CLASSES_INTRO.md) of [Bangazon LLC](https://github.com/nashville-software-school/bangazon-llc) Backend Coursework from [Nashville Software School](https://github.com/nashville-software-school)_
