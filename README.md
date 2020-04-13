@@ -18,7 +18,7 @@ This assignment is an individual exercise: [Directions here](https://github.com/
 - [Directions](https://github.com/TrinityTerry/py-classes/blob/master/directions.md#practice-companies-and-employees)
 
 ## Practice: Urban Planner II
-<!-- - [Code]() -->
+- [Code](https://github.com/TrinityTerry/py-classes/blob/master/main.py#L1)
 - [Directions](https://github.com/TrinityTerry/py-classes/blob/master/directions.md#practice-urban-planner-ii)
 
 ---
